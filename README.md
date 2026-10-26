@@ -89,6 +89,6 @@ financial-operations-analytics/
 ## 👨‍💻 Author
 
 **Vansh Rajpal**
+Aspiring Data Analyst | Python | SQL | Excel | Power BI 
 8199040203
 vanshrajpal2002@gmail.com
-Aspiring Data Analyst | Python | SQL | Excel | Po
